@@ -1,6 +1,3 @@
-Here's a sample README file for your Blog Generator project using the OpenAI API. You can customize it as needed:
-
----
 
 # Blog Generator
 
