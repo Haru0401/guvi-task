@@ -70,8 +70,3 @@ For the input:
 - **Additional pointers:** Risk factors, prevention, and treatment
 
 The generated blog content might include an introduction, key points on risk factors, prevention methods, and treatment options, all structured in a coherent format.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or additional features, please feel free to submit a pull request or open an issue.
-
