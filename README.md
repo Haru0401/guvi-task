@@ -77,14 +77,14 @@ The generated blog content might include an introduction, key points on risk fac
 
 
 
-##BioMistral Medical RAG Chatbot
-##Overview
+## BioMistral Medical RAG Chatbot
+## Overview
 The BioMistral Medical RAG Chatbot is designed to answer medical queries by leveraging a Retrieval-Augmented Generation (RAG) approach, combining the BioMistral Open Source LLM and PubMedBert embedding model for accurate responses based on biomedical literature.
 
-##Technologies Used
-##BioMistral-7B:
+## Technologies Used
+## BioMistral-7B:
 Open-source language model for medical text generation.
-##PubMedBert: 
+## PubMedBert: 
 Embedding model for biomedical texts.
-##Langchain: 
+## Langchain: 
 Framework for language model applications.
