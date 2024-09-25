@@ -1,5 +1,5 @@
 
-# Blog Generator
+# Blog Generator   &&  BioMistral Medical RAG Chatbot project:
 
 ## Overview
 
@@ -70,3 +70,21 @@ For the input:
 - **Additional pointers:** Risk factors, prevention, and treatment
 
 The generated blog content might include an introduction, key points on risk factors, prevention methods, and treatment options, all structured in a coherent format.
+
+
+
+
+
+
+
+##BioMistral Medical RAG Chatbot
+##Overview
+The BioMistral Medical RAG Chatbot is designed to answer medical queries by leveraging a Retrieval-Augmented Generation (RAG) approach, combining the BioMistral Open Source LLM and PubMedBert embedding model for accurate responses based on biomedical literature.
+
+##Technologies Used
+##BioMistral-7B:
+Open-source language model for medical text generation.
+##PubMedBert: 
+Embedding model for biomedical texts.
+##Langchain: 
+Framework for language model applications.
